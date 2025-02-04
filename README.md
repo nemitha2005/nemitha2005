@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nemitha Wijerathna</h1>
-<h3 align="center">A passionate software developer from Sri Lanka, currently pursuing Bachelor's degree in Software Engineering.</h3>
+<h3 align="center">A passionate software developer from Sri Lanka🇱🇰, currently pursuing Bachelor's degree in Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemitha2005&label=Profile%20views&color=0e75b6&style=flat" alt="nemitha2005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nemitha2005" alt="nemitha2005" /></a> </p>
 
-- 🔭 I’m currently working on [VateLanka.lk](https://www.vatelanka.lk/)
+- 🔭 I’m currently doing BEng. (Hons) Software Engineering in University of Westminster, UK🇬🇧.
 
-- 👨‍💻 All of my projects are available at [https://www.nemithawijerathna.online](https://www.nemithawijerathna.online)
+- 👨‍💻 All of my projects are available at [My Resume](https://www.nemithawijerathna.online)
 
 - 💬 Ask me about **react, tailwind and node**
 
