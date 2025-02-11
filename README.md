@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nemitha Wijerathna</h1>
 <h3 align="center">A passionate software developer from Sri Lanka 🇱🇰, currently pursuing Bachelor's degree in Software Engineering.</h3>
 
+[<img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />](https://github.com/sponsors/nemitha2005)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemitha2005&label=Profile%20views&color=0e75b6&style=flat" alt="nemitha2005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nemitha2005" alt="nemitha2005" /></a> </p>
